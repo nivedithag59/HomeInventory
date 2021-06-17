@@ -1,0 +1,56 @@
+5
+Cannodale Bicycle
+Furnace room
+TREK94525822
+true
+500
+03/22/1995
+aurora cycle
+vintage bike
+C:\Users\nived\Documents\NetBeansProjects\HomeInventory\HomeInventory\resource\images\bike.jpg
+Clara
+under my desk
+KING5430
+true
+0.00
+10/14/1998
+samsung
+onida tv
+C:\Users\nived\Documents\NetBeansProjects\HomeInventory\HomeInventory\resource\images\tv.jpg
+Android
+Driveway
+MOBA25698
+true
+600
+10/20/2001
+circuite city
+vivo mobile
+C:\Users\nived\Documents\NetBeansProjects\HomeInventory\HomeInventory\resource\images\mobile.jpg
+Windows Lap
+my office
+LAP152626
+true
+25000
+12/24/2000
+circuitary
+acer lap
+C:\Users\nived\Documents\NetBeansProjects\HomeInventory\HomeInventory\resource\images\lap.jpg
+Titan Handwatch
+Family room
+IND1222753
+true
+1200
+11/27/1998
+electric item
+titanwatch
+C:\Users\nived\Documents\NetBeansProjects\HomeInventory\HomeInventory\resource\images\watch.jpg
+9
+Always Lost
+Basement office
+Driveway
+Family room
+furnace room
+my office
+under my desk
+under the other desk
+Furnace room
